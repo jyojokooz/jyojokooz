@@ -1,4 +1,4 @@
-<div style="width: 100%; height: 150px; overflow: hidden;">
+<div style="width: 250%; height: 150px; overflow: hidden;">
   <img src="https://img.freepik.com/premium-vector/jyo-triangle-letter-logo-design-with-triangle-shape-jyo-triangle-logo-design-monogram-jyo-triangle-vector-logo-template-with-red-color-jyo-triangular-logo-simple-elegant-luxurious-logo_229120-121507.jpg" width="100%" />
 </div>
 
