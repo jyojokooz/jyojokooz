@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://i.pinimg.com/736x/43/da/0a/43da0a4dc031667ec412615c7a67cb2b.jpg" 
        width="45%" height="150px" 
-       style="filter: grayscale(100%) brightness(20%); box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.8); border-radius: 10px;"/>
+       style="filter: grayscale(100%) brightness(20%); box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1); border-radius: 10px;"/>
   <img src="https://i.pinimg.com/736x/7b/e1/23/7be1232b786e13dadc29bc52abdc38ce.jpg" width="45%" height="150px"/>
 </p>
 
