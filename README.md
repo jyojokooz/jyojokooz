@@ -1,5 +1,5 @@
 <div style="width: 550%; height: 150px; overflow: hidden;">
-  <img src="image/image/jyo-triangle-letter-logo-design-with-triangle-shape-jyo-triangle-logo-design-monogram-jyo-triangle-vector-logo-template-with-red-color-jyo-triangul-2RDABAW.png" width="100%" height="150px"/>
+  <img src="https://st4.depositphotos.com/1047356/22305/v/450/depositphotos_223054456-stock-illustration-vector-collage-application-web-design.jpg" width="100%" height="150px"/>
 
 </div>
 
