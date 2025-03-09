@@ -1,4 +1,4 @@
-<a href="[https://top.gg/bot/623481583411658753"><img src="https://i.imgur.com/z1oWSiy.png](https://wallpapers.com/images/high/4k-programming-digital-world-map-6cm23bhnci86c5w5.webp)" width="100%" height="auto"/></a>
+<img src="https://i.imgur.com/z1oWSiy.png](https://wallpapers.com/images/high/4k-programming-digital-world-map-6cm23bhnci86c5w5.webp)" width="100%" height="auto"/></a>
 <h1 align="center">Hi 👋, I'm 24mp2301</h1>
 <h3 align="center">A passionate developer from India</h3>
 
