@@ -1,4 +1,4 @@
-<img src="https://as2.ftcdn.net/jpg/02/76/69/13/1000_F_276691386_nl0MPBlwN5sgVhMHmkdqf5nWCHUSEaWs.jpg" width="100%" height="auto"/></a>
+<img src="https://img.freepik.com/premium-vector/jyo-triangle-letter-logo-design-with-triangle-shape-jyo-triangle-logo-design-monogram-jyo-triangle-vector-logo-template-with-red-color-jyo-triangular-logo-simple-elegant-luxurious-logo_229120-121507.jpg" width="100%" height="auto"/></a>
 <h1 align="center">Hi 👋, I'm 24mp2301</h1>
 <h3 align="center">A passionate developer from India</h3>
 
