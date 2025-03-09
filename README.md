@@ -1,5 +1,5 @@
 
-  <img src="https://snipstock.com/wp-content/uploads/2024/08/js2365_a_modern_red_single_color_printable_logo_for_a_cybersecu_6da39218-a24f-491d-9c1b-3c4386fc70cc.png"/>
+  <img src="https://snipstock.com/wp-content/uploads/2024/08/js2365_a_modern_red_single_color_printable_logo_for_a_cybersecu_6da39218-a24f-491d-9c1b-3c4386fc70cc.png" width="100%" height="150px" />
 
 
 
