@@ -1,4 +1,4 @@
-<img src="https://c4.wallpaperflare.com/wallpaper/1001/537/160/information-code-technology-dark-wallpaper-preview.jpg](https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Halloween-Banner-G4D.original.png)" width="100%" height="auto"/></a>
+<img src="https://as2.ftcdn.net/jpg/02/76/69/13/1000_F_276691386_nl0MPBlwN5sgVhMHmkdqf5nWCHUSEaWs.jpg" width="100%" height="auto"/></a>
 <h1 align="center">Hi 👋, I'm 24mp2301</h1>
 <h3 align="center">A passionate developer from India</h3>
 
