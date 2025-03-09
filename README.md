@@ -1,7 +1,7 @@
-<div style="width: 550%; height: 150px; overflow: hidden;">
+
   <img src="https://st4.depositphotos.com/1047356/22305/v/450/depositphotos_223054456-stock-illustration-vector-collage-application-web-design.jpg" width="100%" height="150px"/>
 
-</div>
+
 
 
 <h1 align="center">Hi 👋, I'm 24mp2301</h1>
