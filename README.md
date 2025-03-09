@@ -9,7 +9,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm 24mp2301</h1>
+<h1 align="center">Hi 👋, I'm JOYEL S RAPHAEL (24mp2301) </h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=24mp2301&label=Profile%20views&color=0e75b6&style=flat" alt="24mp2301" /> </p>
