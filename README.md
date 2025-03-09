@@ -1,5 +1,6 @@
 <div style="width: 550%; height: 150px; overflow: hidden;">
-  <img src="https://www.shutterstock.com/image-vector/jyo-triangle-letter-logo-design-600nw-2366307087.jpg" width="100%" />
+  <img src="image/jyo-triangle-letter-logo-design-600nw-2366307087" width="100%" height="150px"/>
+
 </div>
 
 
