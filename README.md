@@ -6,14 +6,39 @@
 </p>
 
 
+  <style>
+    /* Keyframe for fade-in and typing animation */
+    @keyframes fadeIn {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
 
+    @keyframes typing {
+      from {
+        width: 0;
+      }
+      to {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; font-family: 'Arial', sans-serif; background-color: #f4f4f4;">
 
-
- <h1 style="font-size: 2.5rem; color: #4CAF50; text-align: center; opacity: 0; 
-             animation: fadeIn 3s ease-out forwards, typing 4s steps(30) 2s forwards; 
+  <h1 style="font-size: 2.5rem; color: #4CAF50; text-align: center; opacity: 0;
+             animation: fadeIn 3s ease-out forwards, typing 4s steps(30) 2s forwards;
              white-space: nowrap; overflow: hidden; border-right: 3px solid #4CAF50;">
     Hi 👋, I'm JOYEL S RAPHAEL (24mp2301)
   </h1>
+
+</body>
+
+
+
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=24mp2301&label=Profile%20views&color=0e75b6&style=flat" alt="24mp2301" /> </p>
