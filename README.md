@@ -9,7 +9,11 @@
 
 
 
-<h1 align="center">Hi 👋, I'm JOYEL S RAPHAEL (24mp2301) </h1>
+ <h1 style="font-size: 2.5rem; color: #4CAF50; text-align: center; opacity: 0; 
+             animation: fadeIn 3s ease-out forwards, typing 4s steps(30) 2s forwards; 
+             white-space: nowrap; overflow: hidden; border-right: 3px solid #4CAF50;">
+    Hi 👋, I'm JOYEL S RAPHAEL (24mp2301)
+  </h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=24mp2301&label=Profile%20views&color=0e75b6&style=flat" alt="24mp2301" /> </p>
