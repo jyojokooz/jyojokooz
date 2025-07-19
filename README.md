@@ -28,12 +28,10 @@
 </p>
 <br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%">
-</p>
-
 <div align="center">
-  <h3>Connect with Me</h3>
+  <h3>Let's Connect!</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400px">
+  <br>
   <!-- ❗ UPDATE YOUR SOCIAL LINKS HERE -->
   <p>
     <a href="https://github.com/jyojokooz" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -132,5 +130,5 @@
 
 <div align="center">
 <h3> 🐍 My Contribution Graph Snake Game 🐍 </h3>
-<img src="https://github.com/jyojokooz/jyojokooz/blob/output/github-contribution-grid-snake.svg" alt="snake">
+<img src="https://raw.githubusercontent.com/jyojokooz/jyojokooz/output/github-contribution-grid-snake.svg" alt="snake">
 </div>
