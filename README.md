@@ -158,7 +158,8 @@
 <hr>
 
 <div align="center">
-  <h3>🐍 My Contribution Graph Snake Game 🐍</h3>
+  <h2>🐍 My Contribution Snake Game 🐍</h2>
+  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jyojokooz/jyojokooz/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jyojokooz/jyojokooz/output/github-contribution-grid-snake.svg">
@@ -175,4 +176,6 @@
 <div align="center">
   <h3>✨ Thank you for visiting my profile! ✨</h3>
   <p><i>"The best way to predict the future is to invent it."</i> - Alan Kay</p>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100">
 </div>
