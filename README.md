@@ -16,9 +16,15 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=jyojokooz&label=Profile%20Views&color=0e75b6&style=flat-square" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=jyojokooz&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  </a>
+</div>
+
 <hr>
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 > I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention to detail🕵️‍♀️.
 
@@ -29,35 +35,6 @@
 </p>
 
 <br/>
-
-<div align="center">
-  <h3>Let's Connect!</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400px">
-  <br>
-  
-  <!-- ❗ UPDATE YOUR SOCIAL LINKS HERE -->
-  <p>
-    <a href="https://github.com/jyojokooz" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
-    </a>
-    <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-    </a>
-    <a href="https://instagram.com/jyo_jokooz" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-    </a>
-    <a href="mailto:your.email@example.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40"/>
-    </a>
-    <a href="https://your-portfolio-url.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40"/>
-    </a>
-  </p>
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
 
 ## 🛠️ My Tech Stack
 
@@ -110,14 +87,6 @@
 ## 📊 My GitHub Stats & Activity
 
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=jyojokooz&label=Profile%20Views&color=0e75b6&style=flat-square" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=jyojokooz&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=jyojokooz&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
@@ -157,9 +126,9 @@
 
 <hr>
 
+## 🐍 My Contribution Snake Game 🐍
+
 <div align="center">
-  <h2>🐍 My Contribution Snake Game 🐍</h2>
-  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jyojokooz/jyojokooz/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jyojokooz/jyojokooz/output/github-contribution-grid-snake.svg">
@@ -169,6 +138,31 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400px">
+  <br>
+  
+  <p>
+    <a href="https://github.com/jyojokooz" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
+    </a>
+    <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    </a>
+    <a href="https://instagram.com/jyo_jokooz" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+    </a>
+    <a href="mailto:your.email@example.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40"/>
+    </a>
+    <a href="https://your-portfolio-url.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40"/>
+    </a>
+  </p>
 </div>
 
 ---
