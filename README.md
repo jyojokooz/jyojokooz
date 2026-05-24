@@ -2,29 +2,7 @@
 
 <tr>
 
-<td colspan="2" align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=280&section=header&text=JOEL%20S%20RAPHAEL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Builder%20•%20Kerala%20India&descAlignY=60&descSize=22" />
-
-# ⚡ <span style="color:#4DA3FF;">I AM JOKZ I</span> ⚡
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=4DA3FF&center=true&vCenter=true&width=850&lines=FULL+STACK+DEVELOPER;FLUTTER+%7C+REACT+%7C+PYTHON;BUILDING+SCALABLE+DIGITAL+PRODUCTS;AI+INTEGRATIONS+%26+MODERN+SYSTEMS;PRODUCTION-READY+APPLICATIONS" />
-
-<br><br>
-
-<a href="https://jokz.tech/">
-<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="https://github.com/jyojokooz">
-<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=4DA3FF" />
-</a>
-
-<a href="https://www.linkedin.com/in/joel-s-raphael">
-<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</td>
 
 </tr>
 
@@ -194,7 +172,7 @@ I build scalable digital products focused on performance, usability, and real-wo
 
 # ⚡ BUILDING PRODUCTS WITH PURPOSE, PERFORMANCE & PRECISION ⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0F172A,100:020617&height=160&section=footer" />
+
 
 </td>
 
