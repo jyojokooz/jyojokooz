@@ -1,6 +1,6 @@
 <div align="center">
 
-# Joel S Raphael
+# JOEL S RAPHAEL
 
 ### Full Stack Developer • MCA Graduate • Kerala, India 🇮🇳
 
@@ -14,102 +14,121 @@ Building scalable digital products with clean architecture, modern UI, and real-
 
 ---
 
-## 🚀 About Me
+## 🚀 ABOUT ME
 
-I’m a full stack developer passionate about creating modern digital experiences that are fast, scalable, and user-focused. From responsive web platforms to production-ready mobile applications, I build systems designed for real-world usability and long-term maintainability.
+I’m a full stack developer focused on building scalable, performance-driven, and user-friendly digital products. From responsive web applications to production-ready mobile platforms, I create systems designed for real-world usability and long-term maintainability.
 
-My development approach combines performance optimization, clean architecture, and intuitive design to transform ideas into impactful products.
+I enjoy transforming ideas into polished products through clean architecture, modern UI systems, and efficient backend engineering.
 
 ---
 
-## 💻 Tech Stack
+## 💻 TECH STACK
 
-<table>
+<table width="100%">
 <tr>
+
 <td valign="top" width="50%">
 
-### Frontend
+### Frontend Development
 - Flutter & Dart
 - React.js
 - JavaScript / TypeScript
 - HTML5 / CSS3
+- Responsive UI Design
 
-### UI / UX
-- Responsive Design
-- Modern UI Systems
-- User Experience Design
-- Component-Based Architecture
+### Backend Development
+- Python
+- Django
+- REST APIs
 
 </td>
 
 <td valign="top" width="50%">
 
-### Backend & Cloud
-- Python & Django
-- Firebase
-- REST APIs
+### Cloud & Database
+- Firebase Firestore
+- Firebase RTDB
 - Cloudflare Workers
+- Serverless Systems
 
-### Engineering
+### Engineering & Design
+- UI/UX Design
 - Clean Architecture
 - Performance Optimization
-- Real-Time Systems
-- Production Deployment
+- Real-Time Applications
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🧠 What I Build
+## 🧠 WHAT I BUILD
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+
+<td valign="top" width="50%">
 
 - 📱 Cross-Platform Mobile Apps  
-- 🌐 Scalable Web Platforms  
+- 🌐 Modern Web Platforms  
 - 🤖 AI-Powered Applications  
 - ⚡ Real-Time Systems  
 
 </td>
 
-<td width="50%">
+<td valign="top" width="50%">
 
 - 🏫 Smart Campus Solutions  
-- 💳 Financial Management Systems  
-- ☁️ Cloud-Based Applications  
-- 🚀 Production-Ready Products  
+- 💳 Finance Management Systems  
+- ☁️ Cloud-Based Products  
+- 🚀 Production-Ready Deployments  
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🔥 Current Focus
+## 🔥 CURRENT FOCUS
+
+<table width="100%">
+<tr>
+
+<td valign="top" width="50%">
 
 - Scalable Product Development  
 - AI Integrations & Automation  
-- High Performance Architectures  
-- Clean & Maintainable Codebases  
-- Modern Frontend Experiences  
-- Real-World Product Deployment  
+- High Performance Systems  
+
+</td>
+
+<td valign="top" width="50%">
+
+- Clean Architecture  
+- Maintainable Codebases  
+- Real-World Deployments  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📈 Philosophy
+## 📈 PHILOSOPHY
 
 > *“Technology should solve real problems, simplify experiences, and create meaningful impact.”*
 
-I focus on building software that is practical, scalable, and designed around how people actually use technology in their everyday lives.
+I focus on building software that is practical, scalable, and designed around how people actually interact with technology.
 
 ---
 
 <div align="center">
 
-### 🌐 Connect With Me
+### 🌐 CONNECT WITH ME
 
 [Portfolio](https://jokz.tech/) • [GitHub](https://github.com/jyojokooz) • [LinkedIn](https://www.linkedin.com/in/joel-s-raphael)
 
